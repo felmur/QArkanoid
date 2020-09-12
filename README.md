@@ -14,4 +14,5 @@ $> make
 
 $> ./QArkanoid
 
-
+## Screenshot
+![QArkanoid preview](https://octodex.github.com/images/yaktocat.png)
