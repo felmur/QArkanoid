@@ -15,4 +15,4 @@ $> make
 $> ./QArkanoid
 
 ## Screenshot
-![QArkanoid preview](https://octodex.github.com/images/yaktocat.png)
+![QArkanoid preview](https://github.com/felmur/QArkanoid/screenshot.png)
