@@ -15,4 +15,4 @@ $> make
 $> ./QArkanoid
 
 ## Screenshot
-![QArkanoid preview](https://github.com/felmur/QArkanoid/screenshot.png)
+![QArkanoid preview](https://github.com/felmur/QArkanoid/blob/master/screenshot.png)
