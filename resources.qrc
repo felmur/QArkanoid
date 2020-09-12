@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="back">images/back.png</file>
+        <file alias="blueball">images/blueball.png</file>
+        <file alias="player">images/player.png</file>
+        <file alias="blue">images/brickblue.png</file>
+        <file alias="green">images/brickgreen.png</file>
+        <file alias="grey">images/brickgrey.png</file>
+        <file alias="purple">images/brickpurple.png</file>
+        <file alias="red">images/brickred.png</file>
+        <file alias="yellow">images/brickyellow.png</file>
+        <file alias="icon">images/icon.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="mainfont">fonts/kenvector_future_thin.ttf</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file alias="loop">sounds/funkyloop.wav</file>
+        <file alias="pop">sounds/pop.wav</file>
+        <file alias="popbrick">sounds/popbrick.wav</file>
+        <file alias="fire">sounds/fire.wav</file>
+        <file alias="boing">sounds/boing.wav</file>
+        <file alias="loseball">sounds/loseball.wav</file>
+    </qresource>
+</RCC>
