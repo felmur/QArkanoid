@@ -5,6 +5,9 @@ This game is written for Linux, but it's probably windows+Qt compatible. I need 
 
 
 # Compilation & usage
+
+Open a linux bash and type:
+
 $> qmake
 
 $> make
